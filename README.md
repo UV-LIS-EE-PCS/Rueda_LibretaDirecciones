@@ -116,3 +116,4 @@ La clase `AddressEntry` representa una única entrada de dirección en la libret
 - `public void setEmail(String email)`: Establece el correo electrónico.
 - `public String toString()`: Retorna una cadena que representa la entrada de dirección con toda la información de contacto.
 
+## Gracias por leer
