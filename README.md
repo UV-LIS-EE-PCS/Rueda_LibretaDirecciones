@@ -1,7 +1,7 @@
 # AddressBook Wiki
 
 ## Descripción
-Este proyecto está destinado a crear una libreta de direcciones, en donde se despliega un menú interactivo para poder elegir entre varias opciones disponibles, el usuario deberá indicarle las acciones al programa para poder darle seguimiento a las funciones.
+Este proyecto está destinado a crear una libreta de direcciones, en donde se despliega un menú interactivo para poder elegir entre varias opciones disponibles, el usuario deberá indicarle las acciones al programa para poder darle seguimiento a las funciones donde el programa desplegará los registros de manera ordenada separada por los campos proporcionados.
 # Diagrama de clases UML
 ![AddressBook](https://github.com/LuisAngelRD/Rueda_LibretaDirecciones/assets/163966681/15cd9d09-487c-4eb2-8b4f-dca1e9643624)
 # Funcionamiento
