@@ -2,7 +2,9 @@
 
 ## Descripción
 Este proyecto está destinado a crear una libreta de direcciones, en donde se despliega un menú interactivo para poder elegir entre varias opciones disponibles, el usuario deberá indicarle las acciones al programa para poder darle seguimiento a las funciones.
-
+# Diagrama de clases UML
+![AddressBook](https://github.com/LuisAngelRD/Rueda_LibretaDirecciones/assets/163966681/15cd9d09-487c-4eb2-8b4f-dca1e9643624)
+# Funcionamiento
 ## Opción a)
 El usuario indica que se desea cargar una serie de textos separados por un salto de línea, en donde cada uno contendrá información necesaria para llenar los registros. Es de suma importancia recordar que estos registros llevan un orden específico, siendo como primer dato a ingresar el nombre de la persona, seguido de su apellido, posteriormente debe encontrarse el dato correspondiente a la calle de residencia, seguido de la ciudad, el estado, el número postal, el número telefónico y por último una dirección de correo electrónico.
 
@@ -26,3 +28,5 @@ El usuario indica que se desea finalizar el proceso de ejecución del programa. 
 ## Limitaciones
 El programa no guarda los registros de las entradas ingresadas, será necesario volver a ingresar registros de entradas en las futuras ejecuciones para poder usar el AddressBook satisfactoriamente.
 El programa puede llegar a tener un error persistente en la opción a) Upload from a file, en caso de que el archivo txt no se encuentre en la ruta correcta para su lectura y obtención de datos.
+
+
