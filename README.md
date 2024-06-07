@@ -1,5 +1,6 @@
 # README
-## Leer la Wiki para más detalles y evidencias
+## Leer la Wiki para más detalles y evidencias: 
+https://github.com/LuisAngelRD/Rueda_LibretaDirecciones/wiki
 
 ## Descripción
 Este proyecto está destinado a crear una libreta de direcciones, en donde se despliega un menú interactivo para poder elegir entre varias opciones disponibles, el usuario deberá indicarle las acciones al programa para poder darle seguimiento a las funciones donde el programa desplegará los registros de manera ordenada separada por los campos proporcionados.
