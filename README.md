@@ -22,3 +22,7 @@ El usuario indica que se desea mostrar un listado de todas las direcciones del A
 
 ## Opción f)
 El usuario indica que se desea finalizar el proceso de ejecución del programa. Al momento de ser digitada la entrada con la letra f, el programa se detendrá exitosamente. Es importante recordar que al momento de realizar esta acción, el AddressBook no guarda permanentemente ninguna dirección, siendo necesario volver a cargar o ingresar manualmente direcciones en futuras ejecuciones del programa.
+
+## Limitaciones
+El programa no guarda los registros de las entradas ingresadas, será necesario volver a ingresar registros de entradas en las futuras ejecuciones para poder usar el AddressBook satisfactoriamente.
+El programa puede llegar a tener un error persistente en la opción a) Upload from a file, en caso de que el archivo txt no se encuentre en la ruta correcta para su lectura y obtención de datos.
